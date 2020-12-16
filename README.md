@@ -1,2 +1,2 @@
 # OMDP
-# https://OMDP.github.io/index.html
+# https://Hiro-Fujita.github.io/index.html
