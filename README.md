@@ -1,2 +1,2 @@
 # OMDP
-# https://hiro-fujita.github.io/
+# https://hiro-fujita.github.io/IS117-OMDP/
